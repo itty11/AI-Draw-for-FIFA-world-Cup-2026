@@ -87,3 +87,8 @@ To transition this project into a cutting-edge, fully integrated AI system, the 
 
 * **Automated Data Pipeline:** Implement a system to automatically ingest and update critical data, such as the latest **FIFA Men's World Ranking** and **qualification statuses** (e.g., from external APIs), ensuring `pots.json` and `confirmed_teams.json` are always current without manual intervention.
 * **API Integration:** Create external APIs for the final draw results, allowing easy, real-time integration with downstream systems like official broadcasting graphics and match scheduling software.
+
+
+# Deployment
+
+https://ai-draw-for-fifa-world-cup-2026-5tthrjt7lufkz9pqbixhsz.streamlit.app/
