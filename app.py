@@ -10,6 +10,8 @@ from io import BytesIO
 from PIL import Image
 from pathlib import Path
 from fpdf import FPDF
+import os
+
 
 # ---------------------------
 # Paths & Files
@@ -25,7 +27,7 @@ FLAGS_FILE = DATA_DIR / "flags.json"
 QUALIFIERS_FILE = DATA_DIR / "qualifiers.json"
 LOGO_FILE = BASE_DIR / "assets" / "2026_FIFA_World_Cup_emblem.jpg"
 FONTS_DIR = Path(r"D:\AI Projects\AI-Powered Draw System (Exclusively for FIFA 2026)\dejavu-fonts-ttf-2.37\ttf")
-DEJAVU_PATH = FONTS_DIR / "DejaVuSans.ttf"
+DEJAVU_PATH = FONTS_DIR / "fonts" / "DejaVuSans.ttf"
 DATA_DIR = Path(__file__).resolve().parent / "data"
 NAMES_FILE = DATA_DIR / "names.json"
 
@@ -60,8 +62,8 @@ def generate_pdf(groups_result, logo_path=None):
     pdf.add_page()
 
     # Title
-    pdf.add_font("DejaVu", "", str(FONTS_DIR / "DejaVuSans.ttf"), uni=True)
-    pdf.add_font("DejaVu", "B", str(FONTS_DIR / "DejaVuSans-Bold.ttf"), uni=True)
+    pdf.add_font("DejaVu", "", str(FONTS_DIR / "fonts" / "DejaVuSans.ttf"), uni=True)
+    pdf.add_font("DejaVu", "B", str(FONTS_DIR / "fonts" / "DejaVuSans-Bold.ttf"), uni=True)
     pdf.set_font("DejaVu", "B", 16)
     pdf.cell(0, 12, "FIFA World Cup 2026 - Official Draw Results", ln=True, align="C")
     pdf.ln(10)
