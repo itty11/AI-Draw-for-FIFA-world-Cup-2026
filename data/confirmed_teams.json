@@ -1,0 +1,398 @@
+{
+  "teams": [
+    {
+      "name": "United States",
+      "id": "USA",
+      "confederation": "CONCACAF",
+      "qualified": true,
+      "host": true,
+      "group_preassigned": "D",
+      "ranking": 14,
+      "pot": 1
+    },
+    {
+      "name": "Mexico",
+      "id": "MEX",
+      "confederation": "CONCACAF",
+      "qualified": true,
+      "host": true,
+      "group_preassigned": "A",
+      "ranking": 15,
+      "pot": 1
+    },
+    {
+      "name": "Canada",
+      "id": "CAN",
+      "confederation": "CONCACAF",
+      "qualified": true,
+      "host": true,
+      "group_preassigned": "B",
+      "ranking": 27,
+      "pot": 1
+    },
+    {
+      "name": "Spain",
+      "id": "ESP",
+      "confederation": "UEFA",
+      "ranking": 1,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "Argentina",
+      "id": "ARG",
+      "confederation": "CONMEBOL",
+      "ranking": 2,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "France",
+      "id": "FRA",
+      "confederation": "UEFA",
+      "ranking": 3,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "England",
+      "id": "ENG",
+      "confederation": "UEFA",
+      "ranking": 4,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "Brazil",
+      "id": "BRA",
+      "confederation": "CONMEBOL",
+      "ranking": 5,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "Portugal",
+      "id": "POR",
+      "confederation": "UEFA",
+      "ranking": 6,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "Netherlands",
+      "id": "NED",
+      "confederation": "UEFA",
+      "ranking": 7,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "Belgium",
+      "id": "BEL",
+      "confederation": "UEFA",
+      "ranking": 8,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "Germany",
+      "id": "GER",
+      "confederation": "UEFA",
+      "ranking": 9,
+      "qualified": true,
+      "pot": 1
+    },
+    {
+      "name": "Croatia",
+      "id": "CRO",
+      "confederation": "UEFA",
+      "ranking": 10,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Morocco",
+      "id": "MAR",
+      "confederation": "CAF",
+      "ranking": 11,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Colombia",
+      "id": "COL",
+      "confederation": "CONMEBOL",
+      "ranking": 13,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Uruguay",
+      "id": "URU",
+      "confederation": "CONMEBOL",
+      "ranking": 16,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Switzerland",
+      "id": "SUI",
+      "confederation": "UEFA",
+      "ranking": 17,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Japan",
+      "id": "JPN",
+      "confederation": "AFC",
+      "ranking": 18,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Senegal",
+      "id": "SEN",
+      "confederation": "CAF",
+      "ranking": 19,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Iran",
+      "id": "IRN",
+      "confederation": "AFC",
+      "ranking": 20,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "South Korea",
+      "id": "KOR",
+      "confederation": "AFC",
+      "ranking": 22,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Ecuador",
+      "id": "ECU",
+      "confederation": "CONMEBOL",
+      "ranking": 23,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Austria",
+      "id": "AUT",
+      "confederation": "UEFA",
+      "ranking": 24,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Australia",
+      "id": "AUS",
+      "confederation": "AFC",
+      "ranking": 26,
+      "qualified": true,
+      "pot": 2
+    },
+    {
+      "name": "Norway",
+      "id": "NOR",
+      "confederation": "UEFA",
+      "ranking": 29,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Panama",
+      "id": "PAN",
+      "confederation": "CONCACAF",
+      "ranking": 30,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Egypt",
+      "id": "EGY",
+      "confederation": "CAF",
+      "ranking": 34,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Algeria",
+      "id": "ALG",
+      "confederation": "CAF",
+      "ranking": 35,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Scotland",
+      "id": "SCO",
+      "confederation": "UEFA",
+      "ranking": 36,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Paraguay",
+      "id": "PAR",
+      "confederation": "CONMEBOL",
+      "ranking": 39,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Tunisia",
+      "id": "TUN",
+      "confederation": "CAF",
+      "ranking": 40,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Ivory Coast",
+      "id": "CIV",
+      "confederation": "CAF",
+      "ranking": 42,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Uzbekistan",
+      "id": "UZB",
+      "confederation": "AFC",
+      "ranking": 50,
+      "qualified": true,
+      "debut": true,
+      "pot": 3
+    },
+    {
+      "name": "Qatar",
+      "id": "QAT",
+      "confederation": "AFC",
+      "ranking": 51,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Saudi Arabia",
+      "id": "KSA",
+      "confederation": "AFC",
+      "ranking": 60,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "South Africa",
+      "id": "RSA",
+      "confederation": "CAF",
+      "ranking": 61,
+      "qualified": true,
+      "pot": 3
+    },
+    {
+      "name": "Jordan",
+      "id": "JOR",
+      "confederation": "AFC",
+      "ranking": 66,
+      "qualified": true,
+      "debut": true,
+      "pot": 4
+    },
+    {
+      "name": "Cape Verde",
+      "id": "CPV",
+      "confederation": "CAF",
+      "ranking": 68,
+      "qualified": true,
+      "debut": true,
+      "pot": 4
+    },
+    {
+      "name": "Ghana",
+      "id": "GHA",
+      "confederation": "CAF",
+      "ranking": 72,
+      "qualified": true,
+      "pot": 4
+    },
+    {
+      "name": "Curaçao",
+      "id": "CUW",
+      "confederation": "CONCACAF",
+      "ranking": 82,
+      "qualified": true,
+      "debut": true,
+      "pot": 4
+    },
+    {
+      "name": "Haiti",
+      "id": "HAI",
+      "confederation": "CONCACAF",
+      "ranking": 84,
+      "qualified": true,
+      "pot": 4
+    },
+    {
+      "name": "New Zealand",
+      "id": "NZL",
+      "confederation": "OFC",
+      "ranking": 86,
+      "qualified": true,
+      "pot": 4
+    },
+    {
+      "name": "UEFA Playoff A Winner",
+      "id": "UEFA_A",
+      "confederation": "UEFA",
+      "qualified": false,
+      "placeholder": true,
+      "pot": 4
+    },
+    {
+      "name": "UEFA Playoff B Winner",
+      "id": "UEFA_B",
+      "confederation": "UEFA",
+      "qualified": false,
+      "placeholder": true,
+      "pot": 4
+    },
+    {
+      "name": "UEFA Playoff C Winner",
+      "id": "UEFA_C",
+      "confederation": "UEFA",
+      "qualified": false,
+      "placeholder": true,
+      "pot": 4
+    },
+    {
+      "name": "UEFA Playoff D Winner",
+      "id": "UEFA_D",
+      "confederation": "UEFA",
+      "qualified": false,
+      "placeholder": true,
+      "pot": 4
+    },
+    {
+      "name": "Intercontinental Playoff Winner 1",
+      "id": "IC_1",
+      "confederation": "MIXED",
+      "qualified": false,
+      "placeholder": true,
+      "pot": 4
+    },
+    {
+      "name": "Intercontinental Playoff Winner 2",
+      "id": "IC_2",
+      "confederation": "MIXED",
+      "qualified": false,
+      "placeholder": true,
+      "pot": 4
+    }
+  ]
+}

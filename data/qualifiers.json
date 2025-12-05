@@ -1,0 +1,155 @@
+{
+  "inter_confed_playoffs": {
+    "date": "March 2026",
+    "locations": ["Zapopan", "Guadalupe"],
+    "matches": {
+      "semi_finals": [
+        {
+          "id": "IC_SF1",
+          "date": "26 March 2026",
+          "location": "Zapopan",
+          "team1": "NCL",
+          "team2": "JAM",
+          "label": "New Caledonia vs Jamaica"
+        },
+        {
+          "id": "IC_SF2",
+          "date": "26 March 2026",
+          "location": "Guadalupe",
+          "team1": "BOL",
+          "team2": "SUR",
+          "label": "Bolivia vs Suriname"
+        }
+      ],
+      "finals": [
+        {
+          "id": "IC_F1",
+          "date": "31 March 2026",
+          "location": "Zapopan",
+          "team1": "COD",
+          "team2": "WINNER_IC_SF1",
+          "label": "DR Congo vs Winner Match 1"
+        },
+        {
+          "id": "IC_F2",
+          "date": "31 March 2026",
+          "location": "Guadalupe",
+          "team1": "IRQ",
+          "team2": "WINNER_IC_SF2",
+          "label": "Iraq vs Winner Match 2"
+        }
+      ]
+    },
+    "wc_slots": 2
+  },
+
+  "uefa_playoffs": {
+  "Path A": {
+    "semi_finals": [
+      {
+        "id": "A_SF1",
+        "date": "26 March 2026",
+        "team1": "ITA",
+        "team2": "NIR",
+        "label": "Italy vs Northern Ireland"
+      },
+      {
+        "id": "A_SF2",
+        "date": "26 March 2026",
+        "team1": "WAL",
+        "team2": "BIH",
+        "label": "Wales vs Bosnia and Herzegovina"
+      }
+    ],
+    "final": {
+      "id": "A_F",
+      "date": "31 March 2026",
+      "team1": "WINNER_A_SF2",
+      "team2": "WINNER_A_SF1",
+      "label": "Winner semi-final 2 vs Winner semi-final 1"
+    },
+    "wc_slots": 1
+  },
+
+  "Path B": {
+    "semi_finals": [
+      {
+        "id": "B_SF1",
+        "date": "26 March 2026",
+        "team1": "UKR",
+        "team2": "SWE",
+        "label": "Ukraine vs Sweden"
+      },
+      {
+        "id": "B_SF2",
+        "date": "26 March 2026",
+        "team1": "POL",
+        "team2": "ALB",
+        "label": "Poland vs Albania"
+      }
+    ],
+    "final": {
+      "id": "B_F",
+      "date": "31 March 2026",
+      "team1": "WINNER_B_SF1",
+      "team2": "WINNER_B_SF2",
+      "label": "Winner semi-final 3 vs Winner semi-final 4"
+    },
+    "wc_slots": 1
+  },
+
+  "Path C": {
+    "semi_finals": [
+      {
+        "id": "C_SF1",
+        "date": "26 March 2026",
+        "team1": "TUR",
+        "team2": "ROU",
+        "label": "Turkey vs Romania"
+      },
+      {
+        "id": "C_SF2",
+        "date": "26 March 2026",
+        "team1": "SVK",
+        "team2": "KOS",
+        "label": "Slovakia vs Kosovo"
+      }
+    ],
+    "final": {
+      "id": "C_F",
+      "date": "31 March 2026",
+      "team1": "WINNER_C_SF2",
+      "team2": "WINNER_C_SF1",
+      "label": "Winner semi-final 6 vs Winner semi-final 5"
+    },
+    "wc_slots": 1
+  },
+
+  "Path D": {
+    "semi_finals": [
+      {
+        "id": "D_SF1",
+        "date": "26 March 2026",
+        "team1": "DEN",
+        "team2": "MKD",
+        "label": "Denmark vs North Macedonia"
+      },
+      {
+        "id": "D_SF2",
+        "date": "26 March 2026",
+        "team1": "CZE",
+        "team2": "IRL",
+        "label": "Czech Republic vs Republic of Ireland"
+      }
+    ],
+    "final": {
+      "id": "D_F",
+      "date": "31 March 2026",
+      "team1": "WINNER_D_SF2",
+      "team2": "WINNER_D_SF1",
+      "label": "Winner semi-final 8 vs Winner semi-final 7"
+    },
+    "wc_slots": 1
+  }
+}
+}

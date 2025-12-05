@@ -1,0 +1,164 @@
+{
+  "ARG": "https://flagcdn.com/ar.svg",
+  "BRA": "https://flagcdn.com/br.svg",
+  "ENG": "https://flagcdn.com/gb-eng.svg",
+  "FRA": "https://flagcdn.com/fr.svg",
+  "ESP": "https://flagcdn.com/es.svg",
+  "NED": "https://flagcdn.com/nl.svg",
+  "POR": "https://flagcdn.com/pt.svg",
+  "GER": "https://flagcdn.com/de.svg",
+  "BEL": "https://flagcdn.com/be.svg",
+  "CRO": "https://flagcdn.com/hr.svg",
+  "URU": "https://flagcdn.com/uy.svg",
+  "COL": "https://flagcdn.com/co.svg",
+  "USA": "https://flagcdn.com/us.svg",
+  "MEX": "https://flagcdn.com/mx.svg",
+  "CAN": "https://flagcdn.com/ca.svg",
+
+  "JPN": "https://flagcdn.com/jp.svg",
+  "KOR": "https://flagcdn.com/kr.svg",
+  "AUS": "https://flagcdn.com/au.svg",
+  "IRN": "https://flagcdn.com/ir.svg",
+  "KSA": "https://flagcdn.com/sa.svg",
+  "QAT": "https://flagcdn.com/qa.svg",
+
+  "CMR": "https://flagcdn.com/cm.svg",
+  "SEN": "https://flagcdn.com/sn.svg",
+  "MAR": "https://flagcdn.com/ma.svg",
+  "TUN": "https://flagcdn.com/tn.svg",
+  "NGA": "https://flagcdn.com/ng.svg",
+  "EGY": "https://flagcdn.com/eg.svg",
+  "CIV": "https://flagcdn.com/ci.svg",
+  "GHA": "https://flagcdn.com/gh.svg",
+  "MLI": "https://flagcdn.com/ml.svg",
+  "ALG": "https://flagcdn.com/dz.svg",
+
+  "ECU": "https://flagcdn.com/ec.svg",
+  "PAR": "https://flagcdn.com/py.svg",
+  "CHI": "https://flagcdn.com/cl.svg",
+  "PER": "https://flagcdn.com/pe.svg",
+
+  "CRC": "https://flagcdn.com/cr.svg",
+  "PAN": "https://flagcdn.com/pa.svg",
+  "HON": "https://flagcdn.com/hn.svg",
+  "JAM": "https://flagcdn.com/jm.svg",
+
+  "NZL": "https://flagcdn.com/nz.svg",
+
+  "SCO": "https://flagcdn.com/gb-sct.svg",
+  "WAL": "https://flagcdn.com/gb-wls.svg",
+  "SRB": "https://flagcdn.com/rs.svg",
+  "SUI": "https://flagcdn.com/ch.svg",
+  "AUT": "https://flagcdn.com/at.svg",
+  "POL": "https://flagcdn.com/pl.svg",
+  "CZE": "https://flagcdn.com/cz.svg",
+  "UKR": "https://flagcdn.com/ua.svg",
+  "HUN": "https://flagcdn.com/hu.svg",
+  "ROU": "https://flagcdn.com/ro.svg",
+  "SVK": "https://flagcdn.com/sk.svg",
+  "SVN": "https://flagcdn.com/si.svg",
+  "ITA": "https://flagcdn.com/it.svg",
+  "ISL": "https://flagcdn.com/is.svg",
+  "FIN": "https://flagcdn.com/fi.svg",
+  "GEO": "https://flagcdn.com/ge.svg",
+  "GRE": "https://flagcdn.com/gr.svg",
+  "BIH": "https://flagcdn.com/ba.svg",
+  "ISR": "https://flagcdn.com/il.svg",
+  "EST": "https://flagcdn.com/ee.svg",
+  "KAZ": "https://flagcdn.com/kz.svg"
+
+  ,
+
+  "CHN": "https://flagcdn.com/cn.svg",
+  "VNM": "https://flagcdn.com/vn.svg",
+  "IRQ": "https://flagcdn.com/iq.svg",
+  "UZB": "https://flagcdn.com/uz.svg",
+  "JOR": "https://flagcdn.com/jo.svg",
+  "THA": "https://flagcdn.com/th.svg",
+
+  "ZAM": "https://flagcdn.com/zm.svg",
+  "UGA": "https://flagcdn.com/ug.svg",
+  "BDI": "https://flagcdn.com/bi.svg",
+  "CPV": "https://flagcdn.com/cv.svg",
+  "GAB": "https://flagcdn.com/ga.svg",
+  "KEN": "https://flagcdn.com/ke.svg",
+  "NIG": "https://flagcdn.com/ne.svg",
+
+  "BOL": "https://flagcdn.com/bo.svg",
+  "VEN": "https://flagcdn.com/ve.svg",
+
+  "SLV": "https://flagcdn.com/sv.svg",
+  "GUA": "https://flagcdn.com/gt.svg",
+  "TRI": "https://flagcdn.com/tt.svg",
+  "CUW": "https://flagcdn.com/cw.svg",
+
+  "PNG": "https://flagcdn.com/pg.svg",
+  "SOL": "https://flagcdn.com/sb.svg",
+  "FIJ": "https://flagcdn.com/fj.svg",
+
+  "CAF": "https://flagcdn.com/cf.svg",
+  "LIB": "https://flagcdn.com/lb.svg",
+  "SUD": "https://flagcdn.com/sd.svg",
+
+  "TUR": "https://flagcdn.com/tr.svg",
+
+  "HTI": "https://flagcdn.com/ht.svg",
+
+  "RSA": "https://flagcdn.com/za.svg",
+
+  "UAE": "https://flagcdn.com/ae.svg",
+
+  "LUX": "https://flagcdn.com/lu.svg",
+
+  "ARM": "https://flagcdn.com/am.svg",
+
+  "ALB": "https://flagcdn.com/al.svg",
+
+  "MKD": "https://flagcdn.com/mk.svg",
+
+  "BUL": "https://flagcdn.com/bg.svg",
+
+  "LAT": "https://flagcdn.com/lv.svg",
+
+  "LTU": "https://flagcdn.com/lt.svg",
+
+  "DEN": "https://flagcdn.com/dk.svg",
+
+  "SWE": "https://flagcdn.com/se.svg",
+
+  "NOR": "https://flagcdn.com/no.svg",
+
+  "IRL": "https://flagcdn.com/ie.svg",
+
+  "NIR": "https://flagcdn.com/gb-nir.svg",
+
+  "AZE": "https://flagcdn.com/az.svg",
+
+  "KOS": "https://flagcdn.com/xk.svg",
+  "NCL": "https://flagcdn.com/nc.svg",
+  "SUR": "https://flagcdn.com/sr.svg",
+  "COD": "https://flagcdn.com/cd.svg",
+
+  "MEX_HOST": "https://flagcdn.com/mx.svg",
+  "USA_HOST": "https://flagcdn.com/us.svg",
+  "CAN_HOST": "https://flagcdn.com/ca.svg",
+
+  "UEFA_1": "https://flagcdn.com/eu.svg",
+  "UEFA_2": "https://flagcdn.com/eu.svg",
+  "UEFA_3": "https://flagcdn.com/eu.svg",
+  "UEFA_PLAYOFF_WINNER": "https://flagcdn.com/eu.svg",
+
+  "IC_WINNER_1": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.svg",
+  "IC_WINNER_2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.svg",
+
+  "IC_1": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.svg",
+  "IC_2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.svg",
+
+  "CONMEBOL_PLAYOFF": "https://upload.wikimedia.org/wikipedia/en/a/a8/CONMEBOL_logo_%282017%29.svg",
+  "AFC_PLAYOFF": "https://upload.wikimedia.org/wikipedia/en/2/28/Asian_Football_Confederation_logo_2025.svg",
+  "CAF_PLAYOFF": "https://upload.wikimedia.org/wikipedia/en/7/72/Confederation_of_African_Football_logo.svg",
+  "OFC_PLAYOFF": "https://upload.wikimedia.org/wikipedia/commons/9/93/Oceania_Football_Confederation_logo.svg",
+
+
+  "TBD": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg"
+}

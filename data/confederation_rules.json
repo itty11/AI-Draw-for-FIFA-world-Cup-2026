@@ -1,0 +1,42 @@
+{
+  "confederations": {
+    "AFC": { "max_per_group": 1 },
+    "CAF": { "max_per_group": 1 },
+    "CONCACAF": { "max_per_group": 1 },
+    "CONMEBOL": { "max_per_group": 1 },
+    "OFC": { "max_per_group": 1 },
+    "UEFA": { "max_per_group": 2 }
+  },
+
+  "playoff_placeholder_rules": {
+    "UEFA": {
+      "teams": ["UEFA_A", "UEFA_B", "UEFA_C", "UEFA_D"],
+      "max_per_group": 2
+    },
+    "INTERCONTINENTAL": {
+      "teams": ["IC_1", "IC_2"],
+      "confederation_behavior": "mixed",
+      "restricted_against": "all_confederations"
+    }
+  },
+
+  "draw_rules": {
+    "cannot_share_group": {
+      "except": "UEFA"
+    },
+    "uefa_limit": {
+      "min": 1,
+      "max": 2
+    },
+    "hosts_pre_assigned": {
+      "MEX": "A",
+      "CAN": "B",
+      "USA": "D"
+    },
+    "pathway_separation": {
+      "pair1": ["ESP", "ARG"],
+      "pair2": ["FRA", "ENG"],
+      "rules": "Must be drawn into opposite halves of knockout brackets"
+    }
+  }
+}

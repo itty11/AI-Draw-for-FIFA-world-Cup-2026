@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "A": { "1": "MEX", "2": null, "3": null, "4": null },
+    "B": { "1": "CAN", "2": null, "3": null, "4": null },
+    "C": { "1": null, "2": null, "3": null, "4": null },
+    "D": { "1": "USA", "2": null, "3": null, "4": null },
+    "E": { "1": null, "2": null, "3": null, "4": null },
+    "F": { "1": null, "2": null, "3": null, "4": null },
+    "G": { "1": null, "2": null, "3": null, "4": null },
+    "H": { "1": null, "2": null, "3": null, "4": null },
+    "I": { "1": null, "2": null, "3": null, "4": null },
+    "J": { "1": null, "2": null, "3": null, "4": null },
+    "K": { "1": null, "2": null, "3": null, "4": null },
+    "L": { "1": null, "2": null, "3": null, "4": null }
+  }
+}

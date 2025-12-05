@@ -1,0 +1,160 @@
+{
+  "ARG": "Argentina",
+  "BRA": "Brazil",
+  "ENG": "England",
+  "FRA": "France",
+  "ESP": "Spain",
+  "NED": "Netherlands",
+  "POR": "Portugal",
+  "GER": "Germany",
+  "BEL": "Belgium",
+  "CRO": "Croatia",
+  "URU": "Uruguay",
+  "COL": "Colombia",
+  "USA": "United States",
+  "MEX": "Mexico",
+  "CAN": "Canada",
+
+  "JPN": "Japan",
+  "KOR": "South Korea",
+  "AUS": "Australia",
+  "IRN": "Iran",
+  "KSA": "Saudi Arabia",
+  "QAT": "Qatar",
+
+  "CMR": "Cameroon",
+  "SEN": "Senegal",
+  "MAR": "Morocco",
+  "TUN": "Tunisia",
+  "NGA": "Nigeria",
+  "EGY": "Egypt",
+  "CIV": "Ivory Coast",
+  "GHA": "Ghana",
+  "MLI": "Mali",
+  "ALG": "Algeria",
+
+  "ECU": "Ecuador",
+  "PAR": "Paraguay",
+  "CHI": "Chile",
+  "PER": "Peru",
+
+  "CRC": "Costa Rica",
+  "PAN": "Panama",
+  "HON": "Honduras",
+  "JAM": "Jamaica",
+
+  "NZL": "New Zealand",
+
+  "SCO": "Scotland",
+  "WAL": "Wales",
+  "SRB": "Serbia",
+  "SUI": "Switzerland",
+  "AUT": "Austria",
+  "POL": "Poland",
+  "CZE": "Czech Republic",
+  "UKR": "Ukraine",
+  "HUN": "Hungary",
+  "ROU": "Romania",
+  "SVK": "Slovakia",
+  "SVN": "Slovenia",
+  "ITA": "Italy",
+  "ISL": "Iceland",
+  "FIN": "Finland",
+  "GEO": "Georgia",
+  "GRE": "Greece",
+  "BIH": "Bosnia and Herzegovina",
+  "ISR": "Israel",
+  "EST": "Estonia",
+  "KAZ": "Kazakhstan",
+
+  "CHN": "China",
+  "VNM": "Vietnam",
+  "IRQ": "Iraq",
+  "UZB": "Uzbekistan",
+  "JOR": "Jordan",
+  "THA": "Thailand",
+
+  "ZAM": "Zambia",
+  "UGA": "Uganda",
+  "BDI": "Burundi",
+  "CPV": "Cape Verde",
+  "GAB": "Gabon",
+  "KEN": "Kenya",
+  "NIG": "Niger",
+
+  "BOL": "Bolivia",
+  "VEN": "Venezuela",
+
+  "SLV": "El Salvador",
+  "GUA": "Guatemala",
+  "TRI": "Trinidad and Tobago",
+  "CUW": "Curaçao",
+
+  "PNG": "Papua New Guinea",
+  "SOL": "Solomon Islands",
+  "FIJ": "Fiji",
+
+  "CAF": "Central African Republic",
+  "LIB": "Lebanon",
+  "SUD": "Sudan",
+
+  "TUR": "Turkey",
+
+  "HTI": "Haiti",
+
+  "RSA": "South Africa",
+
+  "UAE": "United Arab Emirates",
+
+  "LUX": "Luxembourg",
+
+  "ARM": "Armenia",
+
+  "ALB": "Albania",
+
+  "MKD": "North Macedonia",
+
+  "BUL": "Bulgaria",
+
+  "LAT": "Latvia",
+  "LTU": "Lithuania",
+
+  "DEN": "Denmark",
+
+  "SWE": "Sweden",
+
+  "NOR": "Norway",
+
+  "IRL": "Republic of Ireland",
+
+  "NIR": "Northern Ireland",
+
+  "AZE": "Azerbaijan",
+
+  "KOS": "Kosovo",
+  "NCL": "New Caledonia",
+  "SUR": "Suriname",
+  "COD": "Democratic Republic of the Congo",
+
+  "MEX_HOST": "Mexico (Host)",
+  "USA_HOST": "United States (Host)",
+  "CAN_HOST": "Canada (Host)",
+
+  "UEFA_1": "UEFA qualifier 1",
+  "UEFA_2": "UEFA qualifier 2",
+  "UEFA_3": "UEFA qualifier 3",
+  "UEFA_PLAYOFF_WINNER": "UEFA playoff winner",
+
+  "IC_WINNER_1": "Intercontinental playoff winner 1",
+  "IC_WINNER_2": "Intercontinental playoff winner 2",
+
+  "IC_1": "Intercontinental playoff placeholder 1",
+  "IC_2": "Intercontinental playoff placeholder 2",
+
+  "CONMEBOL_PLAYOFF": "CONMEBOL playoff team",
+  "AFC_PLAYOFF": "AFC playoff team",
+  "CAF_PLAYOFF": "CAF playoff team",
+  "OFC_PLAYOFF": "OFC playoff team",
+
+  "TBD": "To be decided"
+}

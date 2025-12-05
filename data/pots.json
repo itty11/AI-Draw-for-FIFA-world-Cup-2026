@@ -1,0 +1,22 @@
+{
+  "pot1": [
+    "USA", "MEX", "CAN",
+    "ESP", "ARG", "FRA", "ENG",
+    "BRA", "POR", "NED", "BEL", "GER"
+  ],
+  "pot2": [
+    "CRO", "MAR", "COL", "URU",
+    "SUI", "JPN", "SEN", "IRN",
+    "KOR", "ECU", "AUT", "AUS"
+  ],
+  "pot3": [
+    "NOR", "PAN", "EGY", "ALG",
+    "SCO", "PAR", "TUN", "CIV",
+    "UZB", "QAT", "KSA", "RSA"
+  ],
+  "pot4": [
+    "JOR", "CPV", "GHA", "CUW",
+    "HTI", "NZL", "UEFA_A", "UEFA_B",
+    "UEFA_C", "UEFA_D", "IC_1", "IC_2"
+  ]
+}
